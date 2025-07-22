@@ -1,0 +1,21 @@
+P {
+    font-family: ROBOTO, ARIAL;
+}
+.NAME { 
+    display: inline;
+    color: rebeccapurple;
+    font-size: 50px;
+    margin: 0px;
+}
+.NAME :hover {
+    color: color-mix(in xyz-d50, color percentage, color percentage);
+}
+.BRANCH {
+    color: grey;
+    font-size: 19PX;
+    margin: 0px;
+}
+.AI {
+    color: rgb(212, 163, 102);
+    margin: 0px;
+}

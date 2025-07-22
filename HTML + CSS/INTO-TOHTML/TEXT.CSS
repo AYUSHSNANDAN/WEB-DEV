@@ -1,0 +1,53 @@
+    P {
+        font-family: roboto;
+    }
+      .P {
+        font-size: 18px;
+        font-weight: bold;
+        width: 280px;
+        line-height: 24px;
+        margin-bottom: 5px;
+      }
+
+      .P1 {
+        font-size: 14px;
+        color: grey;
+        margin-top: 5px;
+      }
+
+      .P2 {
+        font-size: 14px;
+        color: grey;
+        margin-top: 15px;
+      }
+
+      .P3 {
+        font-size: 14px;
+        color: grey;
+        width: 280px;
+        line-height: 22px;
+        margin-bottom: 5px;
+      }
+
+      .P4 {
+        background-color: #e34140;
+        font-family: arial;
+        font-size: 14px;
+        color: white;
+        text-align: center;
+        margin-top: 86px;
+        line-height: 22px;
+        margin-left: 8px;
+        margin-right: 8px;
+        padding-top: 16px;
+        padding-right: 16px;
+        padding-bottom: 16px;
+        padding-left: 16px;
+      }
+    
+      .shop {
+        cursor: pointer;
+      }
+      .shop:hover {
+        text-decoration: underline;
+      }
